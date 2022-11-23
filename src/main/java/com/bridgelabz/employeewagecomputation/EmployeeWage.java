@@ -9,7 +9,7 @@ public class EmployeeWage implements IEmployeeWage {
     
     ArrayList<CompanyEmpWage> companies; //ArrayList declaration
     
-  // contructor for EmpWageBuilder  class
+  // contructor for EmployeeWage  class
     public EmployeeWage(){
       companies=new ArrayList<>();
   }
