@@ -7,7 +7,7 @@ public class EmployeeWage implements IEmployeeWage {
     int noOfCompanies, index;
     CompanyEmpWage[] companies; //declaring array
 
-    //Constructor for the class EmpWageBuilder
+    //Constructor for the class EmployeeWage
     public EmployeeWage(int noOfCompanies) {
         this.noOfCompanies = noOfCompanies;
         companies = new CompanyEmpWage[noOfCompanies];
