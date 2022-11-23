@@ -11,7 +11,7 @@ public class EmployeeWage implements IEmployeeWage {
    //hasmap Declaration using variable String=company name,Integer is FullMonthWage
     HashMap<String, Integer> fullDailyWage;
 
-    // contructor for EmpWageBuilder  class
+    // contructor for EmployeeWage  class
     public EmployeeWage(){
       companies=new ArrayList<>();//arrylist
         fullDailyWage = new HashMap<>(); //Hash Map
