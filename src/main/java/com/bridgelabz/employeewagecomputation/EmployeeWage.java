@@ -11,7 +11,7 @@ public class EmployeeWage {
 
 
 
-    //Constructor for the class EmpWageBuilder
+    //Constructor for the class EmployeeWage
     public EmployeeWage(String company, int EMP_RATE_PER_HOUR, int workingDaysPerMonth, int maxWorkingHours){
         this.company = company;
         this.EMP_RATE_PER_HOUR = EMP_RATE_PER_HOUR;
